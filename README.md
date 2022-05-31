@@ -11,7 +11,7 @@ O objetivo desse repositório é mostrar exemplos e desafios de typescript que v
 Ferramentas necessárias:
 - Do Node instalado na sua máquina
 - Instalar o typescript usando o npm (npm install -g typescript)
- - É interessante que ele seja instalado de forma global, para que o usuário possa usar a biblioteca a qualquer momento e em qualquer projeto para fazer testes rápidos com o TS.
+- - É interessante que ele seja instalado de forma global, para que o usuário possa usar a biblioteca a qualquer momento e em qualquer projeto para fazer testes rápidos com o TS.
 - De uma IDE como o visual studio code
 
 Requisitos técnicos:
